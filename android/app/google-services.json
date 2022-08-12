@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801330152453",
+    "project_id": "medicio-14041",
+    "storage_bucket": "medicio-14041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801330152453:android:b71c38d1353f15ffc8486c",
+        "android_client_info": {
+          "package_name": "com.example.finalmedicio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801330152453-hkbp0ivahth3uhcpdruna61h4mjl58an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalmedicio",
+            "certificate_hash": "a0a8ca76b76e104b9a397f6704efd155c1455132"
+          }
+        },
+        {
+          "client_id": "801330152453-u73srpaaq25tgsqc8lupc5vvl3jpl785.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDOzoUFDTpx6vLu5CiEdPO75s-HIowxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801330152453-u73srpaaq25tgsqc8lupc5vvl3jpl785.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
